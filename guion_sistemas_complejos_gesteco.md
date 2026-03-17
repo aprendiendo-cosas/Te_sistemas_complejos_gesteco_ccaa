@@ -2,16 +2,13 @@
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
 > + **_Versión_**: 2025-2026
->
 > +  **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
->
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
->
 > + **Duración**: 2 horas.
 
 
 
-![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/2024_2025/imagenes/network.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/main/imagenes/portada.jpg)
 
 ---
 
@@ -24,15 +21,34 @@
 + Tomar conciencia de las razones que explican la complejidad de gestionar ecosistemas.
 + Entender el concepto de propiedad emergente.
 + Comprender el concepto de sistema y sus distintas características.
++ Entender las jerarquías que existen en los sistemas y que estas pueden ser de distintos tipos.
+
 
 
 ## 2 Hilo argumental
 
 
++ Definición de sistema y propósito operativo. Un sistema se define como un conjunto de elementos que interactúan entre sí para producir un comportamiento global identificable, interpretable como un propósito operativo (no psicológico) que se infiere por cómo el sistema responde a perturbaciones. Ese propósito se reconoce cuando, tras una alteración moderada, el sistema tiende a recuperar su estado o patrón de funcionamiento característico.
 
++ Tres ejes de diversidad para describir sistemas. La complejidad de un sistema se caracteriza por la diversidad de elementos (tipos y abundancias relativas), la diversidad de relaciones entre esos elementos (variedad y frecuencia de vínculos) y la diversidad de información que fluye a través de dichas relaciones. Estos tres ejes permiten comparar sistemas desde los más simples a los más complejos en términos estructurales y dinámicos.
 
++ Ejemplos básicos: vaso de agua, tormenta y arrecife de coral. El vaso de agua ilustra un sistema simple: pocos tipos de elementos, un repertorio relacional muy limitado y un flujo de información casi binario (unido/no unido, orden/desorden). La tormenta añade más tipos de elementos, relaciones y flujos energéticos, mientras que el arrecife de coral incorpora además múltiples niveles biológicos y ecológicos, configurando un sistema complejo con ricas propiedades emergentes.
 
++ Propiedades emergentes de los sistemas complejos. En el paso de vaso de agua → tormenta → arrecife se hace visible la emergencia de nuevas propiedades no reducibles a los componentes aislados, destacando la autoorganización como capacidad de generar orden sin control central. A ello se suman la no linealidad (respuestas desproporcionadas a pequeños cambios), la adaptabilidad (capacidad de persistir cambiando estructura o entorno) y la resiliencia (capacidad de absorber perturbaciones manteniendo funciones básicas).
 
++ Tipología: sistemas simples, complejos y complejos adaptativos. Los sistemas simples presentan baja diversidad de elementos, relaciones e información y son bien descritos por modelos lineales sencillos. Los sistemas complejos muestran alta diversidad y fuertes propiedades emergentes, mientras que los sistemas complejos adaptativos añaden agentes capaces de aprender, variar y ser seleccionados (caso paradigmático: los sistemas biológicos y los socioecosistemas).
+
++ Integración y trascendencia en la jerarquía de niveles. Cada nuevo nivel de organización integra las leyes y componentes del nivel anterior y, simultáneamente, los trasciende generando nuevas capacidades (por ejemplo, un organismo incorpora física y química, pero añade metabolismo, desarrollo y comportamiento). Este patrón de integración‑trascendencia se observa también en sistemas sociales, desde individuos hasta instituciones supranacionales.
+
++ Tipos de jerarquía: física, funcional y de control.La jerarquía física (parte–todo) organiza la materia desde átomos hasta biosfera, pasando por moléculas, células, organismos, poblaciones, comunidades y ecosistemas. Sobre esa base se superponen una jerarquía funcional (roles como productores, consumidores, órganos y sistemas fisiológicos) y una jerarquía de control (subsistemas con más capacidad de coordinación, como cerebro o gobiernos en sociedades humanas).
+
++ Tres sistemas de referencia: organismo humano, ecosistema y sociedad. El organismo humano combina jerarquía física (átomos → órganos → organismo), funcional (sistemas fisiológicos) y de control (sistema nervioso central y conciencia como propiedad emergente). El ecosistema se describe tanto por niveles estructurales (individuos, poblaciones, comunidades, ecosistema, biosfera) como por funciones tróficas, mientras que las sociedades humanas añaden cultura, instituciones y fuertes asimetrías de poder.
+
++ Relaciones dentro y entre subsistemas: casi descomponibilidad. En sistemas bien organizados, las relaciones dentro de un mismo subsistema son más intensas y frecuentes que las relaciones entre subsistemas, lo que facilita el análisis y la estabilidad global. Esta estructura modular se recoge en la idea de sistemas casi descomponibles: subsistemas fuertemente acoplados internamente y solo débilmente acoplados entre sí.
+
++ Modos de fallo de las jerarquías sistémicas. Se distinguen tres grandes modos de fallo: la suboptimización (un subsistema maximiza su propio objetivo a costa del sistema, como un cáncer o una empresa que ignora el daño social), el exceso de control central (cuando el nivel superior intenta microgestionar a los inferiores, destruyendo su autonomía) y los fallos de comunicación entre niveles (ausencia de traducción efectiva entre códigos y escalas). Estos fallos erosionan la coherencia funcional y la resiliencia del socioecosistema en su conjunto.
+
++ Implicaciones para la gestión de socioecosistemas. Gestionar socioecosistemas exige reconocer explícitamente su estructura jerárquica, sus ejes de diversidad, sus propiedades emergentes y sus modos típicos de fallo. La “mirada sistémica” obliga a abandonar enfoques reduccionistas centrados en partes aisladas y a trabajar con múltiples escalas, alta incertidumbre y dinámicas no lineales.
 
 
 
@@ -166,9 +182,9 @@ La siguiente presentación se usó para acompañar la explicación de lo descrit
 
 <p><iframe src="https://prezi.com/view/crs0TaprfzmbUnWyfD4y/embed" width="1200" height="500"> </iframe></p>
 
+[Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.pdf) puedes descargar la presentación en pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.zip) la presentación dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.exe) para Windows. 
 
-
-
+---
 
 
 
@@ -299,7 +315,17 @@ Comprender los ejes de diversidad (elementos, relaciones, información), los dis
 
 Este enfoque obliga a abandonar visiones reduccionistas centradas exclusivamente en partes aisladas (por ejemplo, un único sector económico o un solo componente ecológico) y a adoptar la "mirada sistémica", que reconoce la coexistencia de múltiples escalas, jerarquías y modos de relación, así como la inevitabilidad de la incertidumbre y la no linealidad en la dinámica de los sistemas complejos.
 
+---
 
+El siguiente esquema (descargable aquí en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión mucho mejor.
+
+
+
+PONER ESQUEMA AQUÍ
+
+
+
+---
 
 
 
@@ -312,7 +338,7 @@ En [este](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_cca
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
