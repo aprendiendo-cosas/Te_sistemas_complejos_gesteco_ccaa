@@ -8,7 +8,7 @@
 
 
 
-![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/main/imagenes/portada.jpg)
 
 ---
 
