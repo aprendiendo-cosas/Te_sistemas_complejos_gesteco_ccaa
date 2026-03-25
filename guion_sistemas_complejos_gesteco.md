@@ -245,6 +245,7 @@ En estos sistemas coexisten jerarquías físicas (asentamientos y territorios), 
 La elevada densidad de jerarquía de control en los sistemas humanos se traduce en relaciones de poder frecuentemente asimétricas, donde decisiones tomadas en niveles superiores de la jerarquía (por ejemplo, a nivel estatal o supranacional) condicionan de forma intensa la vida de los subsistemas inferiores (por ejemplo, familias, individuos, comunidades locales).
 
 
+
 ### 3.9. Relaciones intra‑ e intersubsistema y ley de casi descomponibilidad
 
 #### 3.9.1. Estructura de relaciones dentro y entre subsistemas
