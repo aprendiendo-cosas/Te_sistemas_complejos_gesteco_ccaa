@@ -318,22 +318,17 @@ Este enfoque obliga a abandonar visiones reduccionistas centradas exclusivamente
 
 ---
 
-El siguiente esquema (descargable aquí en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión mucho mejor.
-
-
-
-PONER ESQUEMA AQUÍ
-
-
-
----
+El siguiente esquema (descargable [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/heads/main/presentacion/esquema_jerarquia_Sistemas.pptx) en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión que creo ha mejorado bastante lo que vimos en clase. También puedes verlo aquí en Youtube con una explicación oral. 
 
 
 
 
 
+![sistemas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/refs/heads/main/imagenes/jerarquias.png)
 
-En [este](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.pdf) enlace puedes descargar la presentación en pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.zip) tienes la versión dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.exe) para Windows. 
+*Esquema comparativo de jerarquías y modos de fallo en tres sistemas complejos: un organismo humano (izquierda), un ecosistema forestal (centro) y una sociedad humana organizada en ciudad–región–país (derecha). En cada caso se delimitan, mediante contornos de colores, las jerarquías físicas, las jerarquías funcionales y las jerarquías de control. Las flechas finas muestran relaciones intra‑subsistema y entre subsistemas, mientras que los rótulos azules señalan propiedades emergentes (conciencia, homeostasis planetaria, resiliencia ecológica, identidad y cultura). Los iconos negros ilustran tres modos de fallo jerárquico: suboptimización, exceso de control central y deficiente comunicación inter‑escala entre niveles de la jerarquía.*
+
+
 
 
 
