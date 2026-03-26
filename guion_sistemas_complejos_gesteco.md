@@ -318,7 +318,7 @@ Este enfoque obliga a abandonar visiones reduccionistas centradas exclusivamente
 
 ---
 
-El siguiente esquema (descargable [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/heads/main/presentacion/esquema_jerarquia_Sistemas.pptx) en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión que creo ha mejorado bastante lo que vimos en clase. También puedes verlo aquí en Youtube con una explicación oral. 
+El siguiente esquema (descargable [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/heads/main/presentacion/esquema_jerarquia_Sistemas.pptx) en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión que creo ha mejorado bastante lo que vimos en clase. También puedes verlo [aquí](https://youtu.be/a1ppNYgswTA?si=26zJvpTdzP3CxXDO) en Youtube con una explicación oral. 
 
 
 
