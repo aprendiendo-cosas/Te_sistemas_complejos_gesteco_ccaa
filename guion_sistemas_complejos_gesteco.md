@@ -8,7 +8,7 @@
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/imagenes/portada.jpg)
 
 ---
 
@@ -182,7 +182,7 @@ La siguiente presentación se usó para acompañar la explicación de lo descrit
 
 <p><iframe src="https://prezi.com/view/crs0TaprfzmbUnWyfD4y/embed" width="1200" height="500"> </iframe></p>
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.pdf) puedes descargar la presentación en pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.zip) la presentación dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.exe) para Windows. 
+[Aquí](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.pdf) puedes descargar la presentación en pdf. [Aquí](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.zip) la presentación dinámica para Mac y [aquí](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/presentacion/sistemas_complejos_adaptativos_gesteco.exe) para Windows. 
 
 ---
 
@@ -318,13 +318,13 @@ Este enfoque obliga a abandonar visiones reduccionistas centradas exclusivamente
 
 ---
 
-El siguiente esquema (descargable [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/heads/main/presentacion/esquema_jerarquia_Sistemas.pptx) en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión que creo ha mejorado bastante lo que vimos en clase. También puedes verlo [aquí](https://youtu.be/a1ppNYgswTA?si=26zJvpTdzP3CxXDO) en Youtube con una explicación oral. 
+El siguiente esquema (descargable [aquí](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/presentacion/esquema_jerarquia_Sistemas.pptx) en formato Powerpoint) se usó para guiar la explicación en esta segunda parte. En realidad se usó un garabato en la pizarra. Pero he hecho una versión que creo ha mejorado bastante lo que vimos en clase. También puedes verlo [aquí](https://youtu.be/a1ppNYgswTA?si=26zJvpTdzP3CxXDO) en Youtube con una explicación oral. 
 
 
 
 
 
-![sistemas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/refs/heads/main/imagenes/jerarquias.png)
+![sistemas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/imagenes/jerarquias.png)
 
 *Esquema comparativo de jerarquías y modos de fallo en tres sistemas complejos: un organismo humano (izquierda), un ecosistema forestal (centro) y una sociedad humana organizada en ciudad–región–país (derecha). En cada caso se delimitan, mediante contornos de colores, las jerarquías físicas, las jerarquías funcionales y las jerarquías de control. Las flechas finas muestran relaciones intra‑subsistema y entre subsistemas, mientras que los rótulos azules señalan propiedades emergentes (conciencia, homeostasis planetaria, resiliencia ecológica, identidad y cultura). Los iconos negros ilustran tres modos de fallo jerárquico: suboptimización, exceso de control central y deficiente comunicación inter‑escala entre niveles de la jerarquía.*
 
